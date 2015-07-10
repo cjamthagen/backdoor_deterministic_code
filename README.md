@@ -19,6 +19,14 @@ Compatability
 -------------
 This code only works on Linux-based OSes. Only compilers known to work with this code is GCC v4.9.1 and v4.9. 2. Other versions of GCC may or may not work.
 
+Versions of GCC known to generate the correct code for this PoC to work:
+* v4.9.1
+* v4.9.2
+
+Incompatible versions:
+
+Other versions may or may not work. If you test this code with another version of GCC, please report it to me.
+
 Paper
 -----
 Under review.
