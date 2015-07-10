@@ -17,7 +17,7 @@ The files in this repo include
 
 Compatability
 -------------
-This code only works on Linux-based OSes. Only compilers known to work with this code is GCC v4.9.1 and v4.9. 2. Other versions of GCC may or may not work.
+This code only works on Linux-based OSes.
 
 Versions of GCC known to generate the correct code for this PoC to work:
 * v4.9.1
