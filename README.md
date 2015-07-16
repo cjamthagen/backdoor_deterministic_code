@@ -24,6 +24,7 @@ Versions of GCC known to generate the correct code for this PoC to work:
 * v4.9.2
 
 Incompatible versions:
+* v4.8.2
 * v5.1.0 (incorrect offsets to prologue/epilogue functions, easy to fix)
 
 Other versions may or may not work. If you test this code with another version of GCC, please report it to me.
